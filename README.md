@@ -70,7 +70,6 @@ Python-DSA-CodeChef/
 │
 └── ...
 
-
 Each folder contains everything you need to understand and solve the problem independently.
 
 🤝 Contributions
