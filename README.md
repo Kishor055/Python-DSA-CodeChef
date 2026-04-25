@@ -1,96 +1,153 @@
-📘 Python DSA Solutions – CodeChef Practice
+# 🧠 Python DSA Solutions – CodeChef Practice
 
-This repository is a curated collection of Python solutions for Data Structures and Algorithms (DSA) problems from CodeChef.
-Each problem is organized into its own folder and includes:
+A well-structured and continuously growing collection of **Data Structures and Algorithms (DSA)** solutions in **Python**, focused on problems from **CodeChef**.
 
-📄 Problem description
+This repository is designed to help learners strengthen problem-solving skills, understand core concepts, and prepare for competitive programming in a clean and organized way.
 
-🔢 Input–output format
+---
 
-🧪 Sample test cases
+## 🚀 Features
 
-🧠 Optimized Python solution
+Each problem in this repository includes:
 
-💡 Short explanation / reasoning
+* 📄 Clear **problem description**
+* 🔢 **Input–output format**
+* 🧪 **Sample test cases**
+* 🧠 **Optimized Python solution**
+* 💡 **Explanation of approach and logic**
 
-The goal of this repository is to create a clean, structured, and beginner-friendly resource that helps learners build strong problem-solving skills while practicing competitive programming.
+All solutions follow:
 
-🚀 What You’ll Find Here
+* Clean and readable Python code
+* Proper modular structure
+* Inline comments for clarity
+* PEP8 coding standards
 
-This repository covers a wide range of DSA topics commonly asked in CodeChef problems:
+---
 
-✔️ Basic Programming & Mathematics 
-✔️ Conditionals, Loops, and I/O Handling
-✔️ Arrays, Strings & Searching
-✔️ Stack, Queue, Linked List, Trees (conceptual & implementation-based problems)
-✔️ Time & Space Complexity-driven problems
-✔️ Competitive coding patterns used in CodeChef challenges
+## 📚 Topics Covered
 
-Each solution is written with:
+This repository covers a wide range of essential DSA topics:
 
-Clean, readable Python code
+* ✔️ Basic Programming & Mathematics
+* ✔️ Conditionals, Loops & Input/Output Handling
+* ✔️ Arrays, Strings & Searching
+* ✔️ Stack, Queue, Linked List, Trees
+* ✔️ Time & Space Complexity Optimization
+* ✔️ Competitive Programming Patterns
 
-Modular structure
+---
 
-Comments explaining the logic
+## 🎯 Purpose
 
-Proper formatting (PEP8 style)
+This repository is built for:
 
-🎯 Purpose of This Repository
+* 🔹 Students preparing for **competitive programming**
+* 🔹 Beginners learning **Python for DSA**
+* 🔹 Developers practicing **problem-solving skills**
+* 🔹 CodeChef users looking for **structured solutions**
 
-This collection is built for:
+It can be used as:
 
-🔹 Students preparing for competitive coding
-🔹 Learners practicing Python for DSA
-🔹 Anyone using CodeChef for systematic problem-solving
-🔹 People looking for well-documented, reproducible solutions
+* 📘 Study reference
+* 🧩 Practice companion
+* 🔁 Revision resource
+* 🧾 Code template
 
-It also serves as:
+---
 
-A study reference
+## 🗂 Repository Structure
 
-A coding template
-
-A revision resource
-
-A practice companion for improving logic and accuracy
-
-New problems and solutions will be added regularly to broaden the coverage of CodeChef topics.
-
-🗂 Repository Structure
+```bash
 Python-DSA-CodeChef/
 │
 ├── ProblemName1/
-│   ├── README.md   (Problem statement + samples)
-│   └── solution.py
+│   ├── README.md        # Problem statement + examples
+│   └── solution.py      # Python implementation
 │
 ├── ProblemName2/
 │   ├── README.md
 │   └── solution.py
 │
 └── ...
+```
 
-Each folder contains everything you need to understand and solve the problem independently.
+Each folder is self-contained and provides everything needed to understand and solve the problem independently.
 
-🤝 Contributions
+---
 
-Contributions are welcome!
-You can:
+## ⚙️ How to Use
 
-Add new CodeChef problems
+1. Clone the repository:
 
-Suggest optimized solutions
+   ```bash
+   git clone https://github.com/Kishor055/Python-DSA-CodeChef.git
+   ```
 
-Improve documentation or formatting
+2. Navigate to a problem folder:
 
-Just open a pull request and follow the existing folder structure.
+   ```bash
+   cd Python-DSA-CodeChef/ProblemName
+   ```
 
-⭐ Acknowledgments
+3. Run the solution:
 
-This repository is inspired by continuous learning and regular practice on CodeChef.com.
-All problem statements belong to CodeChef, and this repository only provides educational solutions.
+   ```bash
+   python solution.py
+   ```
 
-📬 Contact / Connect
+---
 
-If you have suggestions or want to collaborate:
-👉 GitHub: Kishor055
+## 🤝 Contribution Guidelines
+
+Contributions are welcome and encouraged!
+
+### You can contribute by:
+
+* Adding new CodeChef problems
+* Improving existing solutions
+* Optimizing code performance
+* Enhancing documentation
+
+### Steps:
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Submit a Pull Request
+
+Please follow the existing folder structure and coding style.
+
+---
+
+## ⭐ Acknowledgments
+
+* Problem statements are sourced from **CodeChef**
+* This repository is intended for **educational purposes only**
+* Inspired by consistent practice and continuous learning
+
+---
+
+## 📈 Future Enhancements
+
+* Add difficulty tags (Easy/Medium/Hard)
+* Include time & space complexity analysis for each problem
+* Add multiple approaches (brute force vs optimized)
+* Integrate test automation (pytest)
+
+---
+
+## 📬 Connect
+
+* 🔗 GitHub: https://github.com/Kishor055
+* 💡 Open an issue for suggestions or discussions
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a ⭐ to support the project and help others discover it!
+
+---
+
+**Happy Coding! 🚀**
